@@ -9,7 +9,7 @@ This repository provides a ROS 2 Humble implementation for real-time object dete
 
 ---
 
-## ✨ Features
+##  Features
 
 * Object detection using find\_object\_2d
 * 3D pose estimation with point cloud data
@@ -19,7 +19,7 @@ This repository provides a ROS 2 Humble implementation for real-time object dete
 
 ---
 
-## 🧰 Dependencies
+##  Dependencies
 
 Make sure the following packages are installed:
 
@@ -33,7 +33,7 @@ Make sure the following packages are installed:
 
 ---
 
-## 🔧 Installation
+##  Installation
 
 1. Clone this repository into your ROS 2 workspace:
 
@@ -58,7 +58,7 @@ source install/setup.bash
 
 ---
 
-## 📷 Launching the System
+##  Launching the System
 
 1. Launch the object detection node:
 
@@ -77,7 +77,7 @@ This will start:
 ---
 
 
-## 📌 Notes
+##  Notes
 
 * This package was tested on Ubuntu 22.04 with ROS 2 Humble and a RealSense D435i camera.
 * Ensure your camera is properly calibrated and the intrinsics are correctly published for accurate pose estimation.
